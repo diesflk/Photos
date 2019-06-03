@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <title>
+                Publicaties 2018
+            </title>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <style>
+
+                @import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+                body {
+                    margin: 0;
+                    }
+
+                html, body {
+                    overflow-x: hidden;
+                            }
+
+                body {
+                    position: relative
+                    }
+
+                .responsive {
+                    width: 100%;
+                    height: auto;
+                            }
+
+                .whitespace {
+                    height: 3px;
+                            }
+
+                h1 {
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 30px;
+                    font-weight: 700;
+                    line-height: 33px;
+                    color: #0f0f0f;
+                    padding: 0px 10px 3px 10px;
+                    margin: 0;
+                    }
+
+                h2{
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 12px;
+                    font-weight: 100;
+                    line-height: 15px;
+                    color: #008B8B;
+                    padding: 0px 10px 0px 10px;
+                    margin: 0;
+                    }
+
+                h3{
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 15px;
+                    font-weight: 1000;
+                    line-height: 18px;
+                    color: #0f0f0f;
+                    padding: 0px 10px 0px 10px;
+                    margin: 0;
+                    }
+
+                h4{
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 16px;
+                    font-weight: 700;
+                    line-height: 19px;
+                    color: #0f0f0f;
+                    padding: 0px 10px 0px 10px;
+                    margin: 0;
+                    }
+
+                h5{
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 14px;
+                    font-weight: 200;
+                    line-height: 17px;
+                    color: #0f0f0f;
+                    padding: 0px 10px 0px 10px;
+                    margin: 0;
+                    }
+
+                ul {
+                    list-style-type: none;
+                    margin: 1rem auto;
+                    padding: 0;
+                    overflow: hidden;
+                    background-color: #0f0f0f;
+                    position: -webkit-sticky; /* Safari */
+                    position: sticky;
+                    top: 0;
+                    display: block;
+                    }
+
+                li {
+                    float: left;
+                    }
+
+                li a {
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    padding: 14px 16px;
+                    text-decoration: none;
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 14px;
+                    font-weight: 200;
+                    }
+
+                li a:hover {
+                    background-color: #2F4F4F;
+                    }
+
+                .active {
+                    background-color: #008B8B;
+                    }
+
+                .vertical-menu {
+                    width: 100%;
+                    }
+
+                .vertical-menu a {
+                    background-color: #2F4F4F;
+                    margin: 0;
+                    padding: 0px 10px 0px 10px;
+                    overflow: hidden;
+                    color: white;
+                    display: block;
+                    text-decoration: none;
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 14px;
+                    font-weight: 200;
+                    }
+
+                .vertical-menu a:hover {
+                    background-color: #0f0f0f;
+                    }
+
+                .vertical-menu a.active {
+                    background-color: #4CAF50;
+                    color: white;
+                    }
+
+                iframe {
+                    border: 0;
+                    }
+
+                /* MOBILE */
+                    @media screen and (max-width: 700px) {
+                        iframe {
+                            width: 100%;
+                            height: auto;
+                            }
+                        }
+
+                /* DESKTOP */
+                    @media screen and (min-width: 700px) {
+                        iframe {
+                            height: 400px;
+                            width: 800px;
+                            margin: 1rem auto;
+                            display: block;
+                            }
+                        h1, h2, h3, h4, h5, p, {
+                            width: 100%;
+                            margin: 1rem auto;
+                            }
+                        }
+            </style>
+        </head>
+        <body bgcolor="#f2f2f2">
+            <div style="background-color: white; margin: 1rem auto; display: block; max-width: 800px; height: 100%" class="responsive">
+                <h4>
+                    Publicaties uit 2018:</h4>
+                <div class="vertical-menu">
+                    <a target="_parent" href="https://htmlpreview.github.io/?https://github.com/diesflk/Photos/blob/master/2018001.html">Andere paginas uit ...</a>
+                    <a target="_parent" href="https://htmlpreview.github.io/?https://github.com/diesflk/Photos/blob/master/2018002.html">04-08-2018 &emsp; Slovenië, regio Bled</a>
+                    <a target="_parent" href="https://htmlpreview.github.io/?https://github.com/diesflk/Photos/blob/master/2018003.html">Andere paginas uit 2018</a>
+                </div>
+            </div>
+        </body>
+    </html>
