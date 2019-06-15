@@ -1,7 +1,137 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
    <style>
+     
+body {
+  margin: 0;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+        
+.responsive {
+  width: 100%;
+  height: auto;
+}
+        
+.whitespace {
+    height: 5px;
+}
+        
+h1 {
+    font-family: 'Open Sans', Oxygen;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 33px;
+    color: #0f0f0f;
+    padding: 0px 10px 3px 10px;
+    margin: 0;
+}
+        
+h2{
+    font-family: 'Open Sans', Oxygen;
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 15px;
+    color: #008B8B;
+    padding: 0px 10px 0px 10px;
+    margin: 0;
+}
+
+h3{
+    font-family: 'Open Sans', Oxygen;
+    font-size: 15px;
+    font-weight: 1000;
+    line-height: 18px;
+    color: #0f0f0f;
+    padding: 0px 10px 0px 10px;
+    margin: 0;
+}
+        
+h4{
+    font-family: 'Open Sans', Oxygen;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    color: #0f0f0f;
+    padding: 0px 10px 0px 10px;
+    margin: 0;
+}
+
+h5{
+    font-family: 'Open Sans', Oxygen;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 17px;
+    color: #0f0f0f;
+    padding: 0px 10px 0px 10px;
+    margin: 0;
+}
+        
+ul {
+  list-style-type: none;
+  margin: 1rem auto;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0f0f0f;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  display: block;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Open Sans', Oxygen;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+li a:hover {
+  background-color: #2F4F4F;
+}
+
+.active {
+  background-color: #008B8B;
+}
+
+iframe { border: 0;}
+
+
+/* MOBILE */
+@media screen and (max-width: 700px) {
+  iframe {
+      width: 100%;
+      height: auto;
+  }
+}
+/* DESKTOP */
+@media screen and (min-width: 700px) {
+    iframe {
+    height: 400px;
+    width: 800px;
+    margin: 1rem auto;
+    display: block;
+  }
+  h1, h2, h3, h4, h5, p, {
+    width: 100%;
+    margin: 1rem auto;
+  } 
+}
 </style>
 </head>
 <body>
