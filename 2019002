@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <title>
+                Foto's
+            </title>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <style>
+
+                @import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+                body {
+                    margin: 0;
+                    }
+
+                html, body {
+                    overflow-x: hidden;
+                            }
+
+                body {
+                    position: relative
+                    }
+
+                .responsive {
+                    width: 100%;
+                    height: auto;
+                            }
+
+                .whitespace {
+                    height: 3px;
+                            }
+
+                h1 {
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 30px;
+                    font-weight: 700;
+                    line-height: 33px;
+                    color: #0f0f0f;
+                    padding: 0px 10px 3px 10px;
+                    margin: 0;
+                    }
+
+                h2{
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 12px;
+                    font-weight: 100;
+                    line-height: 15px;
+                    color: #008B8B;
+                    padding: 0px 10px 0px 10px;
+                    margin: 0;
+                    }
+
+                h3{
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 15px;
+                    font-weight: 1000;
+                    line-height: 18px;
+                    color: #0f0f0f;
+                    padding: 0px 10px 0px 10px;
+                    margin: 0;
+                    }
+
+                h4{
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 16px;
+                    font-weight: 700;
+                    line-height: 19px;
+                    color: #0f0f0f;
+                    padding: 0px 10px 0px 10px;
+                    margin: 0;
+                    }
+
+                h5{
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 14px;
+                    font-weight: 200;
+                    line-height: 17px;
+                    color: #0f0f0f;
+                    padding: 0px 10px 0px 10px;
+                    margin: 0;
+                    }
+
+                ul {
+                    list-style-type: none;
+                    margin: 1rem auto;
+                    padding: 0;
+                    overflow: hidden;
+                    background-color: #0f0f0f;
+                    position: -webkit-sticky; /* Safari */
+                    position: sticky;
+                    top: 0;
+                    display: block;
+                    }
+
+                li {
+                    float: left;
+                    }
+
+                li a {
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    padding: 14px 16px;
+                    text-decoration: none;
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 14px;
+                    font-weight: 200;
+                    }
+
+                li a:hover {
+                    background-color: #2F4F4F;
+                    }
+
+                .active {
+                    background-color: #008B8B;
+                    }
+
+                .vertical-menu {
+                    width: 100%;
+                    }
+
+                .vertical-menu a {
+                    background-color: #2F4F4F;
+                    margin: 0;
+                    padding: 0px 10px 0px 10px;
+                    overflow: hidden;
+                    color: white;
+                    display: block;
+                    text-decoration: none;
+                    font-family: 'Open Sans', Oxygen;
+                    font-size: 14px;
+                    font-weight: 200;
+                    }
+
+                .vertical-menu a:hover {
+                    background-color: #0f0f0f;
+                    }
+
+                .vertical-menu a.active {
+                    background-color: #4CAF50;
+                    color: white;
+                    }
+
+                iframe {
+                    border: 0;
+                    }
+
+                /* MOBILE */
+                    @media screen and (max-width: 700px) {
+                        iframe {
+                            width: 100%;
+                            height: auto;
+                            }
+                        }
+
+                /* DESKTOP */
+                    @media screen and (min-width: 700px) {
+                        iframe {
+                            height: 400px;
+                            width: 800px;
+                            margin: 1rem auto;
+                            display: block;
+                            }
+                        h1, h2, h3, h4, h5, p, {
+                            width: 100%;
+                            margin: 1rem auto;
+                            }
+                        }
+            </style>
+        </head>
+        <body bgcolor="#f2f2f2">
+            <ul style="max-width: 800px" class="responsive">
+                <li><a class="active" href="https://raw.githack.com/diesflk/Photos/master/2018000.html">2019</a></li>
+                <li><a href="https://raw.githack.com/diesflk/Photos/master/2018000.html">Vorige</a></li>
+                <li><a href="https://raw.githack.com/diesflk/Photos/master/2020000.html">Volgende</a></li>
+            </ul>
+            <div style="background-color: white; margin: 1rem auto; display: block; max-width: 800px; height: 100%" class="responsive">
+                <p class="whitespace"></p>
+                <h1 class="responsive">
+                    Foto Overzicht</h1>
+                <h2>
+                    ZATERDAG 8 JUNI 2018 OM 19:00</h2>
+                <p class="whitespace"></p>
+                <h3>
+                    Deze pagina word doorlopend aangevuld.</h3>
+                <p class="whitespace"></p>
+                <h4>
+                    Bloemen en Bijen </h4>
+                <h5>
+                    Deze foto's zijn genomen op een zondagmiddag ergens tussen Kloetinge en Kattendijke.</h5>
+                <p>
+                    <img src="https://lh3.googleusercontent.com/RJKnZN5jSoSlOgXMCtI7g7SxM_bqdASX4u76LhjhoPEea87jFr47UwSXu3E9s-mxHq3D91RczIKcK-Z75HTO9lkMwN9t6a1n025A-77gkL_UXpyEc75Ecj_zSsnnVEEk8BdwpLDh-Dw=w2400" alt="Plaatje" class="responsive"></p>
+                <p>
+                    <img src="https://lh3.googleusercontent.com/9fTUG5yJ2dyFC0jE_wdW2jv-9n5703M5Sly_DC-DFMnprGdz99ifpAC9SIjO8UdK7I3AM2ouPV_Gr2aERF6zUZUOtf_pVtuogthEpRsRuKvvG3p-XPYtPPAhJ_0dNUmBtiR2RCUQyp0=w2400" alt="Plaatje" class="responsive"></p>
+             <h2>
+                                 Dies Flikweert</h2>
+            </div>
+            <div style="background-color: white; margin: 1rem auto; display: block; max-width: 800px; height: 100%" class="responsive">
+            <p class="whitespace"></p>
+            <h4>
+                Laat je reactie achter, is leuk!</h4>
+                <script type="text/javascript" async>function ajaxpath_5d29ce3a7ac56(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5d29ce3a7ac56"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5d29ce3a7ac56=document.createElement('script');fcs_5d29ce3a7ac56.type="text/javascript";fcs_5d29ce3a7ac56.src=ajaxpath_5d29ce3a7ac56((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5d29ce3a7ac56&s=#!5d29ce3a7ac56");setTimeout("document.getElementById('fcs_div_5d29ce3a7ac56').appendChild(fcs_5d29ce3a7ac56)",1);})();</script>
+                <iframe src="https://raw.githack.com/diesflk/Photos/master/2019999.html" style="background-color: white; margin: 1rem auto; display: block; max-width: 800px; height: 100%" class="responsive"></iframe></div>
+        </body>
+    </html>
