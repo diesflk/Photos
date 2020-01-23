@@ -27,6 +27,8 @@
         "properties": {
             "stroke": "#545454",
             "stroke-width": 5
+            
+            "Naam":"Weggetje",
         }
     }]
 }
