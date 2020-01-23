@@ -9,7 +9,7 @@
             "marker-size": "large",
             "marker-symbol": "campsite",
             "marker-color": "#d2b48c",
-            
+
             "Naam":"Camping La Riviera ",
             "Land":"Frankrijk",
             "Plaats":"Corsica ",
@@ -18,7 +18,25 @@
             "Latitude":41.768803,
             "Longitude":9.177662
         }
-    }, {
+    }, { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.260643944692333, 41.473236311426376]
+        },
+        "properties": {
+            "marker-size": "large",
+            "marker-symbol": "heart,
+            "marker-color": "#ff6347",
+
+            "Naam":"Activiteit a",
+            "Land":"Frankrijk",
+            "Plaats":"Corsica ",
+            "Straat":"xxx",
+            "Huisnummer":"00",
+            "Latitude":41.758803,
+            "Longitude":9.167662
+        }
+    },{
         "type": "Feature",
         "geometry": {
             "type": "LineString",
@@ -27,7 +45,7 @@
         "properties": {
             "stroke": "#545454",
             "stroke-width": 4,
-            
+
             "Naam":"Weggetje"
         }
     }]
