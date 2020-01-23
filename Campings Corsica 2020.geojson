@@ -8,7 +8,7 @@
         "properties": {
             "marker-size": "large",
             "marker-symbol": "campsite",
-            "marker-color": "#ace"
+            "marker-color": "#d2b48c"
         }
     }, {
         "type": "Feature",
