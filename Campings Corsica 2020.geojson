@@ -6,7 +6,7 @@
             "coordinates": [9.260643944692333, 41.473236311426376]
         },
         "properties": {
-            "marker-size": "medium",
+            "marker-size": "large",
             "marker-symbol": "bus",
             "marker-color": "#ace"
         }
