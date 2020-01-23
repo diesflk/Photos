@@ -7,7 +7,7 @@
         },
         "properties": {
             "marker-size": "large",
-            "marker-symbol": "bus",
+            "marker-symbol": "campsite",
             "marker-color": "#ace"
         }
     }, {
