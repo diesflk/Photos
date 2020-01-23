@@ -9,6 +9,14 @@
             "marker-size": "large",
             "marker-symbol": "campsite",
             "marker-color": "#d2b48c"
+            
+            "Naam":"Camping La Riviera ",
+            "Land":"Frankrijk",
+            "Plaats":"Corsica ",
+            "Straat":"xxx",
+            "Huisnummer":"00",
+            "Latitude":41.768803,
+            "Longitude":9.177662
         }
     }, {
         "type": "Feature",
