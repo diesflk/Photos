@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "properties":{"name":"Corsica 2020"}
+    "features": 
+    [
+      { 
+        "type": "Feature",
+  
+        "geometry": 
+        {
+           "type": "Point",
+           "coordinates": [9.260643944692333, 41.473236311426376]
+        },
+
+        "properties": 
+        {
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#ace"
+            "Naam":"Camping La Riviera ",
+            "Land":"Frankrijk",
+            "Plaats":"Corsica ",
+            "Straat":"xxx",
+            "Huisnummer":"00",
+            "Latitude":41.768803,
+            "Longitude":9.177662
+        }
+       } 
+    ]
+}
