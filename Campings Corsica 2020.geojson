@@ -18,10 +18,10 @@
             "Latitude":41.768803,
             "Longitude":9.177662
         }
-    }, { "type": "Feature",
+    },  { "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [9.260643944692333, 41.473236311426376]
+            "coordinates": [9.250643944692333, 41.463236311426376]
         },
         "properties": {
             "marker-size": "large",
