@@ -360,5 +360,365 @@
             "Longitude":9.334722,
             "Latitude":42.586392
         }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.345869,42.785218]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Nonza",
+            "Omschrijving":"je reist rond Cap Corse - het is ten zuidwesten van het schiereiland - en is een leuke plek om je tour te eindigen met een mooie kerk, een oude toren en een prachtig uitzicht om van te genieten.",
+            "Gebied":"Capi Corsu",
+            "Longitude":9.345869,
+            "Latitude":42.785218
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.367082,42.697345]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Patrimonio",
+            "Omschrijving":"Patrimonio is een niet te missen dorpje als je wijnliefhebber bent. Dit pittoreske dorp is een van de bekendste wijnstreken van Corsica. Je vindt er ellenlange wijngaarden en je kijkt bovendien uit op de bergen: prachtig!",
+            "Gebied":"Nebbiu",
+            "Longitude":9.367082,
+            "Latitude":42.697345
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.621020,42.238008]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Piana",
+            "Omschrijving":"Een van de mooiste dorpjes van frankrijk. Mooi uitzicht vanaf de zendmast.",
+            "Gebied":"Vicu",
+            "Longitude":8.621020,
+            "Latitude":42.238008
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.903241,42.599132]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Pigna",
+            "Omschrijving":"Pigna lijkt bijna volledig te worden genegeerd door reisgidsen, maar we dachten dat het een van de mooiste Balagne-dorpen was en raden u aan om te bezoeken als onderdeel van uw tour door de regio.",
+            "Gebied":"Balagna",
+            "Longitude":8.903241,
+            "Latitude":42.599132
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.774772,42.555283]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Plage Calvi",
+            "Omschrijving":"Het zandstrand van Calvi Plage is vooral in trek bij families en vakantiegangers, in het bijzonder tijdens de zomermaanden. Hoewel Calvi Plage dus redelijk druk kan zijn, behoudt het toch zijn ontspannen en vriendelijke sfeer en is het een gezellige plek om zowel van zee als zon te genieten. Geniet van de uitzichten over Calvi en de Middellandse Zee.",
+            "Gebied":"Calvi",
+            "Longitude":8.774772,
+            "Latitude":42.555283
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.593070,42.170266]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Plage Chiuni",
+            "Omschrijving":"Het gezellige zandstrand van Chiuni (nabij Cargèse) wordt afgelijnd door mastiekbomen en straalt rust uit, ondanks het toeristische dorp dat er net achter ligt. Hier kan je ontspannen en van de zon genieten, of jezelf verwennen met een iets actievere watersport-activiteit. Dit is de perfecte plaats om een dag door te brengen tijdens een rondreis op Corsica.",
+            "Gebied":"Vicu",
+            "Longitude":8.593070,
+            "Latitude":42.170266
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.627752,42.249076]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Plage de Ficaghjola",
+            "Omschrijving":"Het strandje Plage de Ficajola onder Piana (een schattig dorpje trouwens) bereik je via een spectaculaire afdaling van 15% de diepte in. Dan nog een fiks aantal traptreden af om bij de kleine baai te komen. Fijacola is nog geen 50 meter breed en heeft een strandje van kleine kiezels. Kortom, klein in omvang maar groots in sfeer.",
+            "Gebied":"Calvi",
+            "Longitude":8.627752,
+            "Latitude":42.249076
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.325119,41.558398]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Plage de Palombaggia",
+            "Omschrijving":"Plage de Palombaggia werd door UNESCO uitgeroepen tot één van de mooiste stranden. Hierbij gaat het niet alleen over Corsica, maar over de ganse wereld. Vanop dit strand, met zijn zuivere witte zanden, kijk je uit over het sprankelende water van de zee met de onbewoonde Cerbicale Eilanden als uitzichtspunt. Zoals te verwachten kan het hier in het hoogseizoen druk zijn, maar zelfs dat doet niets af aan de natuurlijke schoonheid van deze plek.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":9.325119,
+            "Latitude":41.558398
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.347648,41.637836]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Plage de Saint-Cyprien",
+            "Omschrijving":"Plage de Saint-Cyprien (Porto-Vecchio) is nog zo’n uitgestrekt stukje zandstrand dat voor velen het paradijs betekent. Dit strand grenst aan de Étang d’Arasu met zijn Genuese wachttoren. Vele historische restanten werden bij de monding van de Osu gevonden. Door de beschutte ligging en de langzame overgang van diep naar ondiep, is dit strand heel geschikt voor families met jonge kinderen.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":9.347648,
+            "Latitude":41.637836
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.273353,41.531742]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Plage de Santa Giulia",
+            "Omschrijving":"Plage de Santa Giulia is een adembenemend strand. Het strand, een parel langs de kust, wordt vaak omschreven als één van de mooiste op het eiland. Plage de Santa Giulia beschikt over zacht, wit zand. Wil je naast het genieten van het strand ook iets eten? Dan kan je terecht in de lekkere restaurants waar je wat kan eten terwijl je geniet van het zeezicht.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":9.273353,
+            "Latitude":41.531742
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.058803,42.658450]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Plage Ostriconi",
+            "Omschrijving":"Het Strand van Ostriconi is één van onze favoriete stranden op Corsica. Dit verrukkelijk zachte zandstrand is in elk geval een zalige plek, of je nu gekomen bent om snel even door de branding te lopen, te picknicken of om enkele uurtjes te genieten van de zon. Je kan er soms het gezelschap krijgen van koeien op het strand, wat het nog net iets specialer maakt. Wel opletten, dit zijn wilde dieren, kom niet te dicht in de buurt en laat ze zeker niet schrikken.",
+            "Gebied":"Balagna",
+            "Longitude":9.058803,
+            "Latitude":42.658450
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.220714,41.375754]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Plage du Piantarella",
+            "Omschrijving":"Windsurfen",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":9.220714,
+            "Latitude":41.375754
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.318048,41.553520]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Plage Tamaricciu",
+            "Omschrijving":"Plage Tamaricciu (Porto-Vecchio) is een beetje meer zuidwaarts gelegen dan Plage de Palombaggia. Het is wat minder bekend maar daarom niet minder mooi. Om een rustig plekje voor jezelf te vinden kan je best vanaf de parking van Tamaricciu naar het uiterste einde van dit lange strand wandelen. Er zijn genoeg gelegenheden voor een drankje of een hapje, met zicht op zee.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":9.318048,
+            "Latitude":41.553520
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [ 9.347916,42.964412]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Port de Centuri",
+            "Omschrijving":"Port de Centuri lokt tijdens de zomermaanden heel wat volk en dat is niet verwonderlijk. Het is een erg pittoreske vissershaven die goed onderhouden is. Een bezoek aan dit stadje mag niet ontbreken tijdens je rondreis op Corsica! In Port de Centuri word je omringd door een pastelkleurige gevels, gezellige cafeetjes, restaurants, een mooie kustlijn... We zouden aanraden om hierheen te komen rond lunchtijd omwille van de vele leuke eetgelegenheden.",
+            "Gebied":"Capi Corsu",
+            "Longitude": 9.347916,
+            "Latitude":42.964412
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.805392,41.892276]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Porticcio ",
+            "Omschrijving":"Porticcio is een badplaats aan de kust van Zuidwest-Corsica, op korte afstand ten zuidoosten van Ajaccio.",
+            "Gebied":"Aiacciu è i trè valli",
+            "Longitude":8.805392,
+            "Latitude":41.892276
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.693887,42.267916]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Porto",
+            "Omschrijving":"Porto is een dorp ten westen van Corsica, met uitzicht op de Golfe de Porto. Het is waar dat Porto op een vrij afgelegen locatie ligt, maar het ligt in het centrum van enkele van de meest schilderachtige hoogtepunten in Corsica, dus veel bezoekers komen hier.",
+            "Gebied":"Vicu",
+            "Longitude":8.693887,
+            "Latitude":42.267916
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.280389,41.592477]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Porto Vecchio",
+            "Omschrijving":"Porto-Vecchio is een zeer populaire stad aan de zuidoostkust van Corsica, ongeveer 25 kilometer ten noordoosten van Bonifacio. De stad heeft ook gemakkelijke toegang tot zowel de prachtige stranden als het hoge berglandschap, wat zijn populariteit verklaart bij bezoekers aan Corsica.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":9.280389,
+            "Latitude":41.592477
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.901966,41.674719]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Propriano",
+            "Omschrijving":"Propriano is een klein stadje met een plezierhaven.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":8.901966,
+            "Latitude":41.674719
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.936996,41.495404]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Roccapina",
+            "Omschrijving":"Roccapina ligt tussen Bonifacio en Sartene in het zuidwesten van Corsica. Het is een populaire bestemming bij bezoekers omdat het een prachtig zandstrand heeft en een panoramisch pad en uitkijkpunt.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":8.936996,
+            "Latitude":41.495404
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.302931,42.67947]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Saint-Florent",
+            "Omschrijving":"Saint Florent is een populaire badplaats op Corsica aan de golf van Saint Florent. Saint-Florent neemt een mooie positie in met helderblauwe zeeën en een mooie haven aan de ene kant en steile heuvels bedekt met bomen en struiken die achter oprijzen.",
+            "Gebied":"Nebbiu",
+            "Longitude":9.302931,
+            "Latitude":42.67947
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.904509,42.589931]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Sant’Antonino",
+            "Omschrijving":"Sant'Antonino is een dorp in de Corsicaanse heuvels tussen Calvi en L'Ile Rousse. Het staat vermeld als een van de 'mooiste dorpen van Frankrijk'. Het goed bewaarde dorp ligt op een heuvel van graniet en is omgeven door het prachtige Balagne-landschap met olijfbomen en wijngaarden",
+            "Gebied":"Balagna",
+            "Longitude":8.904509,
+            "Latitude":42.589931
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.971362,41.622065]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Sartene",
+            "Omschrijving":"hoewel Sartène een vrij kleine stad is, maakt de combinatie van de levendige sfeer en het historische centrum het een van onze favoriete steden op Corsica en is een bezoek aan te bevelen.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":8.971362,
+            "Latitude":41.622065
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.846740,42.588754]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Village d’Occi",
+            "Omschrijving":"Dit verlaten middeleeuwse bergdorpje bevindt zich nabij het plaatsje Lumio. Het ligt op een rots in de hoogte en biedt een prachtig panoramisch uitzicht over de baai van Calvi. Village d’Occi werd gesticht door Corsicanen die op de vlucht waren voor piraten die de kustdorpen teisterden. Toen het gevaar echter geweken was, trokken de inwoners terug naar de kust en er was ook een tekort aan drinkwater waardoor het dorpje verlaten werd. Tegenwoordig is Village d’Occi bereikbaar via verschillende routes die starten in Lumio. Je kan ook in zo’n drie kwartier naar Village d’Occi wandelen. Aangezien de wandeling over een bergachtig pad met stenen loopt, zijn goede wandelschoenen aan te raden. Het uitzicht tijdens de wandeling is adembenemend.",
+            "Gebied":"Balagna",
+            "Longitude":8.846740,
+            "Latitude":42.588754
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.133913,42.128329]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Vizzavona",
+            "Omschrijving":"Met het treintje (lijn Bastia-Ajaccio) kun je hier uitstappen. Een bergdorpje, ligt al op hoge hoogte van waar je goed kunt wandelen.",
+            "Gebied":"Corti",
+            "Longitude":9.133913,
+            "Latitude":42.128329
+        }
     }]
 }
