@@ -30,5 +30,35 @@
             "Longitude":9.513434,
             "Latitude":42.103080
         }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [, ]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"",
+            "Omschrijving":"",
+            "Gebied":"",
+            "Longitude":,
+            "Latitude":
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [, ]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"",
+            "Omschrijving":"",
+            "Gebied":"",
+            "Longitude":,
+            "Latitude":
+        }
     }]
 }
