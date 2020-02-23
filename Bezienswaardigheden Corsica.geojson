@@ -3,38 +3,47 @@
     "features": [{ "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [9.260643944692333, 41.473236311426376]
-        },
-        "properties": {
-            "marker-size": "large",
-            "marker-symbol": "campsite",
-            "marker-color": "#d2b48c",
-
-            "Naam":"Camping La Riviera ",
-            "Land":"Frankrijk",
-            "Plaats":"Corsica ",
-            "Straat":"xxx",
-            "Huisnummer":"00",
-            "Latitude":41.768803,
-            "Longitude":9.177662
-        }
-    },  { "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [9.250643944692333, 41.463236311426376]
+            "coordinates": [8.739923, 41.919778]
         },
         "properties": {
             "marker-size": "large",
             "marker-symbol": "heart",
             "marker-color": "#ff6347",
-
-            "Naam":"Activiteit a",
-            "Land":"Frankrijk",
-            "Plaats":"Corsica ",
-            "Straat":"xxx",
-            "Huisnummer":"00",
-            "Latitude":41.758803,
-            "Longitude":9.167662
+            "Naam":"Ajaccio",
+            "Omschrijving":"De hoofdstad van Corsica en ook de geboorteplaats van Napoleon Bonaparte. In het pittoreske stadscentrum wandel je door gezellige smalle straatjes en langs leuke winkels. Er is ook een mooie vissershaven, de indrukwekkende kathedraal Notre Dame de L’Assomption, het Musée Fesch en de citadel. Vanaf Place Foch heb je een prachtig zicht over de Middellandse Zee.",
+            "Gebied":"Aiacciu è i trè valli",
+            "Longitude":8.739923,
+            "Latitude":41.919778
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.513434, 42.103080]
+        },
+        "properties": {
+            "marker-size": "large",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Aléria",
+            "Omschrijving":"Je kan er de resten van de oude Romeinse stad bekijken, de Saint-Marcel kathedraal binnengaan, door het Italiaanse fort wandelen en het archeologisch museum Jérome-Carcopino bezoeken. Je vindt in de omgeving van Aléria ook enkele prachtige lagunes waar unieke vogelsoorten leven. Er is ook een zandstrand en heel wat citrusbomen en wijngaarden. Vanaf Aléria kan je de Tavignano ook per kano verkennen.",
+            "Gebied":"Aleria",
+            "Longitude":9.513434,
+            "Latitude":42.103080
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [, ]
+        },
+        "properties": {
+            "marker-size": "large",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"",
+            "Omschrijving":"",
+            "Gebied":"",
+            "Longitude":,
+            "Latitude":
         }
     }]
 }
