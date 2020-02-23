@@ -6,7 +6,7 @@
             "coordinates": [8.739923, 41.919778]
         },
         "properties": {
-            "marker-size": "large",
+            "marker-size": "small",
             "marker-symbol": "heart",
             "marker-color": "#ff6347",
             "Naam":"Ajaccio",
@@ -21,7 +21,7 @@
             "coordinates": [9.513434, 42.103080]
         },
         "properties": {
-            "marker-size": "large",
+            "marker-size": "small",
             "marker-symbol": "star",
             "marker-color": "#0000A0",
             "Naam":"Aléria",
