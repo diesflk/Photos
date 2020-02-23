@@ -210,5 +210,155 @@
             "Longitude":8.906494,
             "Latitude":42.614908
         }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.150916,42.305092]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Corte",
+            "Omschrijving":"De beste plaats om de citadel te zien is vanuit de belvedere net ten zuiden van de citadel zelf. Vanaf de belvedere heb je ook een weids uitzicht over de riviervalleien en bergen, evenals de daken van Corte.",
+            "Gebied":"Corti",
+            "Longitude":9.150916,
+            "Latitude":42.305092
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.128665,41.717155]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Cucuruzzu",
+            "Omschrijving":"Cucuruzzu is een prehistorische site op een 900 meter hoog plateau. De plek dateert uit de Bronstijd en zou hebben toebehoord aan de Torreanen, een volk dat rond 1000 voor Christus Corsica veroverde.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":9.128665,
+            "Latitude":41.717155
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.870059,41.745013]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Filitosa",
+            "Omschrijving":"Filitosa is een opmerkelijke prehistorische vindplaats tussen Ajaccio en Propriano in het zuidwesten van Corsica, waar u een zeldzame gelegenheid hebt om prehistorische stenen gravures in een natuurlijke omgeving te zien.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":8.870059,
+            "Latitude":41.745013
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.031099,42.229379]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Gorges de la Restonica",
+            "Omschrijving":"Gorges de la Restonica is een idyllische kloof vol waterpoelen waarin je heerlijk kan afkoelen tijdens warme zomerdagen. Het gebied werd eeuwen geleden uitgesleten door de rivier Restonica. ",
+            "Gebied":"Vicu",
+            "Longitude":9.031099,
+            "Latitude":42.229379
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.764816,42.256148]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Gorges de Spelunca",
+            "Omschrijving":"De twee dorpen, Ota en Evisa, hebben geen grote monumenten van belang, maar ze liggen beide op zeer imposante locaties met bergen achter zich. Als de tijd het toelaat, raden we je aan beide dorpen te verkennen, anders is Evisa de meest interessante van de twee, en beide maken deel uit van de populaire wandelingen door de vallei.",
+            "Gebied":"Vicu",
+            "Longitude":8.764816,
+            "Latitude":42.256148
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.617025,41.901103]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Iles-Sanguinaires",
+            "Omschrijving":"Als je langs het schiereiland zelf loopt, is er een pad dat langs de kust volgt, en een tweede pad dat de heuvel oploopt om de toren te zien: geen erg lang pad, maar behoorlijk steil.",
+            "Gebied":"Aiacciu è i trè valli",
+            "Longitude":8.617025,
+            "Latitude":41.901103
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.936347,42.636914]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"L'Ile-Rousse",
+            "Omschrijving":"L'Ile-Rousse is een populaire badplaats. De stad bestaat uit drie delen: het historische centrum, het strand en het eiland.",
+            "Gebied":"Balagna",
+            "Longitude":8.936347,
+            "Latitude":42.636914
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.864893,42.546821]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Montemaggiore",
+            "Omschrijving":"Hoewel het slechts een klein dorp is, heeft het veel van zijn historische charme behouden en heeft het een indrukwekkend uitzicht over de regio, dus een bezoek wordt aanbevolen als onderdeel van uw tour door de Balagne.",
+            "Gebied":"Balagna",
+            "Longitude":8.864893,
+            "Latitude":42.546821
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.367068,42.973557]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Moulin Mattei",
+            "Omschrijving":"De oude ‘Moulin Mattei’ is ook een echt aan te raden bezienswaardigheid. Niet zozeer de witte molen zal je aandacht trekken, maar wel het ongelooflijk mooie uitzicht dat je er zomaar bij krijgt.",
+            "Gebied":"Capi Corsu",
+            "Longitude":9.367068,
+            "Latitude":42.973557
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.334722,42.586392]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Murato",
+            "Omschrijving":"Murato staat vooral bekend vanwege het kerkje San Michele de Murato, een Romaans bouwwerk uit de twaalfde eeuw en één van de belangrijkste bezienswaardigheden van Corsica. De republike Pisa bezette Corsica toen en die Italiaanse invloeden zijn duidelijk zichtbaar in de kerk. Er werden donkere en lichte stenen gebruikt en in de raamlijsten werden planten- en dierenmotieven aangebracht.",
+            "Gebied":"Nebbiu",
+            "Longitude":9.334722,
+            "Latitude":42.586392
+        }
     }]
 }
