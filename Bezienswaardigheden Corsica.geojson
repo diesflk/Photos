@@ -33,32 +33,182 @@
     },  { "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [, ]
+            "coordinates": [8.867327, 42.607720]
         },
         "properties": {
             "marker-size": "small",
-            "marker-symbol": "heart",
-            "marker-color": "#ff6347",
-            "Naam":"",
-            "Omschrijving":"",
-            "Gebied":"",
-            "Longitude":,
-            "Latitude":
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Algajola ",
+            "Omschrijving":"Een klein vestingstadje met een lang zandstrand.",
+            "Gebied":"Balagna",
+            "Longitude":8.867327,
+            "Latitude":42.607720
         }
     },  { "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [, ]
+            "coordinates": [9.447102, 42.694378]
         },
         "properties": {
             "marker-size": "small",
             "marker-symbol": "heart",
             "marker-color": "#ff6347",
-            "Naam":"",
-            "Omschrijving":"",
-            "Gebied":"",
-            "Longitude":,
-            "Latitude":
+            "Naam":"Bastia",
+            "Omschrijving":"De Vieux Port, oftewel de oude haven, is best indrukwekkend om eens te zien. Daarnaast valt ook de parochiekerk met grote barokke gevel meteen op. Bij een bezoek aan het stadje raden we ook aan om zeker eens van de streekwijnen te proeven en om enkele culturele bezienswaardigheden mee te pikken, zoals de Citadel van Bastia. Verder kan je hier rustig rondwandelen en de schilderachtige huisjes, dunne steegjes en pittoreske pleintjes verkennen.",
+            "Gebied":"Bastia",
+            "Longitude":9.447102,
+            "Latitude":42.694378
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.155099,41.387083]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Bonifacio",
+            "Omschrijving":"Bonifacio is een mooie middeleeuwse stad en de oudste stad van Corsica, gesticht rond 830. Het is gelegen op de kliffen van een kalkstenen schiereiland boven een natuurlijke haven op de plaats van een citadel uit de 9e eeuw. De combinatie van resort, middeleeuwse stad, landschappen en nabijgelegen stranden maken het een van de onmisbare hoogtepunten van uw reis naar Corsica.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":9.155099,
+            "Latitude":41.387083
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.657599,42.252803]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Calanches de Piana",
+            "Omschrijving":"De calanche de Piana ligt ten zuiden van het dorp Piana in het westen van Corsica en is een van de meest indrukwekkende schilderachtige hoogtepunten op het eiland. De calanche strekt zich uit over meerdere kilometers en bestaat uit een reeks rode rotsen en kliffen die zich tot 300 meter de Middellandse Zee uitstrekken.",
+            "Gebied":"Vicu",
+            "Longitude":8.657599,
+            "Latitude":42.252803
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.755588,42.561895]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Calvi",
+            "Omschrijving":"Het plaatsje bevindt zich in een idyllische baai en vanaf het pittoreske dorp heb je een indrukwekkend uitzicht over de statige bergtop van de Monte Cino die meer dan 2700 meter hoog is. In het centrum vind je heerlijke restaurants en gezellige winkeltjes en bars. Bezoek hier zeker de charmante haven, de dertiende-eeuwse Saint-Jean Baptistekathedraal, de roze Saint-Marie-Majeurekerk en het mooie zandstrand. Dé bezienswaardigheid van Calvi is de vijftiende-eeuwse citadel die hoog boven het dorp uittorent.",
+            "Gebied":"Calvi",
+            "Longitude":8.755588,
+            "Latitude":42.561895
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.475732,42.776557]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Cap Corse",
+            "Omschrijving":"Cap Corse is een schiereiland dat bekendstaat omwille van de prachtige natuur en de authentieke sfeer. Het vissersdorp Erbalunga is een klein dorp aan de kust van Cap Corse, ongeveer 10 kilometer ten noorden van Bastia en een van de belangrijkste bestemmingen terwijl u het schiereiland bezoekt.",
+            "Gebied":"Capi Corsu",
+            "Longitude":9.475732,
+            "Latitude":42.776557
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.583533,42.235321]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Capo Rosso",
+            "Omschrijving":"Een zalmroze kaap in granietsteen die je alleen te voet kan bereiken. Je begint met afdalend deel door de natuur en daarna volgt een stevige klim over rotspaden tot aan de top waar de rode Genuese toren zich bevindt. Eens je de toren bereikt hebt, word je meteen beloond met ongelooflijk mooie panoramische uitzichten. Vanaf dit punt kijk je uit over Calanques de Piana, het Scandola Reservaat, de baai van Sagone en het prachtige binnenland. De wandeltocht duurt zo’n 4 uur (heen en terug). Vergeet ook zeker je camera niet, want je zal verschillende plekjes tegenkomen die een foto waard zijn!",
+            "Gebied":"Vicu",
+            "Longitude":8.583533,
+            "Latitude":42.235321
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.623963,41.937659]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Capo-di-Feno",
+            "Omschrijving":"De stranden van Petit Capo en Grand Capo.",
+            "Gebied":"Aiacciu è i trè valli",
+            "Longitude":8.623963,
+            "Latitude":41.937659
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.367517,42.375796]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Castagniccia",
+            "Omschrijving":"Vele kastanjebomen en pittoreske dorpjes. Het is één van de langst bewoonde gebieden van Corsica. De lokale bevolking plantte hier lange tijd minstens 4 fruitbomen per persoon om zo zelfvoorzienend te worden. Op die manier groeide Castagniccia uit tot de welvarendste regio van Corsica. Tegenwoordig is de streek echter maar dunbevolkt. Veel bewoners trokken naar de grotere steden op het eiland en in de dorpjes lijkt het daarom alsof de tijd er stil bleef staan. Er zijn verschillende wandelroutes uitgestippeld die je langs mooie plekjes zoals La Porta en Piedicroce gidsen.",
+            "Gebied":"Bastia",
+            "Longitude":9.367517,
+            "Latitude":42.375796
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.348743,42.966144]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Centuri",
+            "Omschrijving":"Er is hier een erg pittoreske vissershaven die goed onderhouden is.",
+            "Gebied":"Capi Corsu",
+            "Longitude":9.348743,
+            "Latitude":42.966144
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.190616,41.650286]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Col de Bavella",
+            "Omschrijving":"Een van de mooiste delen van Corsica is in de bergen in het noordwesten van Porto-Vecchio, waar een weg, de D368, snel de bergen in klimt om l'Ospedale, Zonza en de Col de Bavella te bereiken. Onder de bergtoppen zijn dichte bossen met tal van wandelmogelijkheden en snelstromende rivieren. Na een paar kilometer begin je verschillende uitkijkpunten over de kust te bereiken, hoewel deze vaak alleen door de bomen worden bekeken. Het beste uitzichtpunt is een paar honderd meter voorbij het kleine dorpje l'Ospedale, vanwaar het uitzicht zo uitgebreid is dat de zee en de lucht niet meer te onderscheiden zijn. Een paar kilometer buiten het dorp bereikt u het meer van l'Ospedale, een heerlijke plek voor een wandeling en een picknick. Een van de meest populaire wandelingen in de regio begint ook een paar kilometer hiervandaan en daalt af door het bos om een ​​kleine rivier te volgen om een ​​waterval te bereiken.",
+            "Gebied":"Rocca Bunifaziu",
+            "Longitude":9.190616,
+            "Latitude":41.650286
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.906494,42.614908]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "star",
+            "marker-color": "#0000A0",
+            "Naam":"Corbara",
+            "Omschrijving":"Corbara is echt meer een groep van gehuchten en kleine dorpen verspreid over het landschap dan een enkel dorp, maar de meeste zijn gemakkelijk te voet te bereiken als u in het grootste deel van het dorp parkeert. Wandel door het dorp om de open belvedere voor de pastelroze kerk te bereiken. Dit is de barokke kerk van de Aankondiging, gebouwd tussen 1641 en 1751 en bevat een indrukwekkend altaar gemaakt met marmer uit een nabijgelegen steengroeve in de 18e eeuw. Er zijn verschillende andere kleine kerken en kapellen in Corbara, en als u de straten door het dorp volgt, ziet u de borden naar de Chapelle de Notre-Dame des Sept Douleurs. Dit houdt een wandeling de heuvel op, maar de locatie en het uitzicht maken het de moeite waard.",
+            "Gebied":"Balagna",
+            "Longitude":8.906494,
+            "Latitude":42.614908
         }
     }]
 }
