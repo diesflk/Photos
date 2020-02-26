@@ -720,5 +720,20 @@
             "Longitude":9.133913,
             "Latitude":42.128329
         }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.133913,42.128329]
+        },
+        "properties": {
+            "marker-size": "small",
+            "marker-symbol": "heart",
+            "marker-color": "#ff6347",
+            "Naam":"Vizzavona",
+            "Omschrijving":"Met het treintje (lijn Bastia-Ajaccio) kun je hier uitstappen. Een bergdorpje, ligt al op hoge hoogte van waar je goed kunt wandelen.",
+            "Gebied":"Corti",
+            "Longitude":9.133913,
+            "Latitude":42.128329
+        }
     }]
 }
