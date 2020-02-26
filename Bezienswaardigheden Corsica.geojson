@@ -723,17 +723,17 @@
     },  { "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [9.133913,42.128329]
+            "coordinates": [8.710006,42.262136]
         },
         "properties": {
             "marker-size": "small",
-            "marker-symbol": "heart",
-            "marker-color": "#ff6347",
-            "Naam":"Vizzavona",
-            "Omschrijving":"Met het treintje (lijn Bastia-Ajaccio) kun je hier uitstappen. Een bergdorpje, ligt al op hoge hoogte van waar je goed kunt wandelen.",
+            "marker-symbol": "campsite",
+            "marker-color": "#d2b48c",
+            "Naam":"Campping Les Oliviers",
+            "Omschrijving":"Camping les Oliviers ligt in een mooie omgeving, met uitzicht op de Golf de Port, schaduwrijke staanplaatsen en zwembad. De omgeving biedt een breed aanbod aan activiteiten.",
             "Gebied":"Corti",
-            "Longitude":9.133913,
-            "Latitude":42.128329
+            "Longitude":8.710006,
+            "Latitude":42.262136
         }
     }]
 }
