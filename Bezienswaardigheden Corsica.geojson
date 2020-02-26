@@ -726,12 +726,12 @@
             "coordinates": [8.710006,42.262136]
         },
         "properties": {
-            "marker-size": "small",
+            "marker-size": "large",
             "marker-symbol": "campsite",
             "marker-color": "#d2b48c",
             "Naam":"Campping Les Oliviers",
             "Omschrijving":"Camping les Oliviers ligt in een mooie omgeving, met uitzicht op de Golf de Port, schaduwrijke staanplaatsen en zwembad. De omgeving biedt een breed aanbod aan activiteiten.",
-            "Gebied":"Corti",
+            "Gebied":"Vicu",
             "Longitude":8.710006,
             "Latitude":42.262136
         }
