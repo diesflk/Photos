@@ -735,5 +735,35 @@
             "Longitude":8.710006,
             "Latitude":42.262136
         }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.764372,42.552257]
+        },
+        "properties": {
+            "marker-size": "large",
+            "marker-symbol": "campsite",
+            "marker-color": "#d2b48c",
+            "Naam":"Camping Paduella",
+            "Omschrijving":"Mooie ruime camping direct aan de kustweg. Prachtig, super schoon sanitair. Leuk barretje waar je ook kunt eten en afhalen. ´s Morgens voldoende brood. Je kunt gaan staan waar je wilt. Achterin de camping schitterende vrije plekken. Groot nadeel is de omgevingsherrie. Er zijn veel campings in de buurt met luidruchtig avondvertier en het geluid draagt ver. Bovendien is vlakbij de eerste hulppost met helicopter, die te pas en te onpas ook ´s nachts vliegt.",
+            "Gebied":"Calvi",
+            "Longitude":8.764372,
+            "Latitude":42.552257
+        }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.847583,42.590378]
+        },
+        "properties": {
+            "marker-size": "large",
+            "marker-symbol": "campsite",
+            "marker-color": "#d2b48c",
+            "Naam":"Campping le Panoramic",
+            "Omschrijving":"De plaatsen zijn ruim, circa de helft van de plaatsen is vlak genoeg voor een tent of vouwwagen. Vanaf veel plaatsen is nog een glimp van het meer op te vangen. Er zijn twee sanitair gebouwen, een deel gaat dicht in het laagseizoen, maar het is aldoor ruim voldoende. De mensen bij de receptie zijn buitengewoon vriendelijk en hulpvaardig met uitstapjes en info. Er was broodservice in het laagseizoen maar wij reden liever even 5 minuutjes naar de uitstekende 'bakkerij Chevallier'.",
+            "Gebied":"Calvi",
+            "Longitude":8.847583,
+            "Latitude":42.590378
+        }
     }]
 }
