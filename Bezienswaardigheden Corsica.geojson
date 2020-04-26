@@ -780,5 +780,20 @@
             "Longitude":9.179465,
             "Latitude":41.418102
         }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.764853,41.808665]
+        },
+        "properties": {
+            "marker-size": "large",
+            "marker-symbol": "campsite",
+            "marker-color": "#d2b48c",
+            "Naam":"Camping La Vallee",
+            "Omschrijving":"Goed.",
+            "Gebied":"Ajaccio",
+            "Longitude":8.764853,
+            "Latitude":41.808665
+        }
     }]
 }
