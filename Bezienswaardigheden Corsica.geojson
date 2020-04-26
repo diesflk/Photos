@@ -765,5 +765,20 @@
             "Longitude":8.847583,
             "Latitude":42.590378
         }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.179465,41.418102]
+        },
+        "properties": {
+            "marker-size": "large",
+            "marker-symbol": "campsite",
+            "marker-color": "#d2b48c",
+            "Naam":"Camping Pertamina Village U Farniente",
+            "Omschrijving":"Niks mis mee.",
+            "Gebied":"Bonifacio",
+            "Longitude":9.179465,
+            "Latitude":41.418102
+        }
     }]
 }
