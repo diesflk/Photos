@@ -795,5 +795,20 @@
             "Longitude":8.764853,
             "Latitude":41.808665
         }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.193920,42.223516]
+        },
+        "properties": {
+            "marker-size": "large",
+            "marker-symbol": "campsite",
+            "marker-color": "#d2b48c",
+            "Naam":"Camping La Ferme de Peridundellu",
+            "Omschrijving":"Zeer rustige camping met ruime, vrije plaatsen die je zelf mag kiezen. Campingplaatsen zijn zowel onder bomen als onbeschut. Plaatsen met prachtig uitzicht beschikbaar. Riviertje met zwem en speelmogelijkheden op loop afstand. Brood op bestelling en wordt aan de tent geleverd. Mogelijkheid om een heerlijk 3 gangen menu te eten voor een zeer lage prijs. De eigenaar kookt en serveert zelf. Heeft altijd goede zin. Camping is een goede uitgangsbasis voor wandelingen. Je bent met 20 minuten autorijden in Corte. Niet overdreven, maar keurig sanitair. Warme douches beschikbaar (gratis).",
+            "Gebied":"Venaco",
+            "Longitude":9.193920,
+            "Latitude":42.223516
+        }
     }]
 }
