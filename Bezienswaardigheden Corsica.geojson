@@ -810,5 +810,20 @@
             "Longitude":9.193920,
             "Latitude":42.223516
         }
+    },  { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.447200,41.999683]
+        },
+        "properties": {
+            "marker-size": "large",
+            "marker-symbol": "campsite",
+            "marker-color": "#d2b48c",
+            "Naam":"Camping-Village Marina d’Erba Rossa",
+            "Omschrijving":"Grote camping met prachtig zwembad en aan een mooi strand. Zeer actief qua sport en animatie dus je moet wel van reuring houden :) Geweldig lekker en betaalbaar restaurant. Relatief weinig Nederlanders. Minpunten zijn absoluut het sanitair; oud en vies en ontzettend jammer dan zo’n leuke camping dat niet beter regelt, hele slechte WiFi (wel lekker rustig) en je kunt geen koelkast huren voor in je eigen tent (wel een soort koelkastkluisje vlakbij het sanitairblok). Ghissonaccia is als plek an sich niets bijzonders, de mooiste stranden zitten zuidelijker (uur rijden naar Porte Vecchio), Bonifacio vonden we prachtig! Bavella massief is op rijafstand en daar kun je geweldig fietsen/ lopen en zwemmen op een soort cascades. Corsica is een heel mooi eiland maar erg duur, zeker ook met de bootkosten erbij maakt het dat een prijzige vakantie.",
+            "Gebied":"Ghisonaccia",
+            "Longitude":9.447200,
+            "Latitude":41.999683
+        }
     }]
 }
