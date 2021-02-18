@@ -1,4 +1,5 @@
-<div id='map_geo' class='map'> </div>
+
+<div id='map_simple' class='map'> </div>
 <script>
 var geojson = [
   {
@@ -6,6 +7,11 @@ var geojson = [
     geometry: {
       type: 'Point',
       coordinates: [-77.031952, 38.913184]
+    },
+    properties: {
+      'marker-color': '#3bb2d0',
+      'marker-size': 'large',
+      'marker-symbol': 'rocket'
     }
   },
   {
@@ -13,14 +19,29 @@ var geojson = [
     geometry: {
       type: 'Point',
       coordinates: [-122.413682, 37.775408]
+    },
+    properties: {
+      'marker-color': '#3bb2d0',
+      'marker-size': 'large',
+      'marker-symbol': 'rocket'
     }
   }
 ];
 
-var mapGeo = L.mapbox.map('map_geo')
+var mapSimple = L.mapbox.map('map_simple')
   .setView([37.8, -96], 4)
   .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/light-v10'));
+var myLayer = L.mapbox.featureLayer().setGeoJSON(geojson).addTo(mapSimple);
+mapSimple.scrollWheelZoom.disable();
+</script>
+Style markers with an image
+You can define a custom marker image in your GeoJSON by adding an icon object to each feature's properties. In this example, L.icon is used to set the marker image to each feature's iconURL.
 
-var myLayer = L.mapbox.featureLayer().setGeoJSON(geojson).addTo(mapGeo);
-mapGeo.scrollWheelZoom.disable();
+<div id='map-one' class='map'> </div>
+<script>
+var mapOne = L.mapbox.map('map-one')
+  .setView([37.8, -96], 4)
+  .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/light-v10'));
+var myLayer = L.mapbox.featureLayer().setGeoJSON(geojson).addTo(mapSimple);
+mapSimple.scrollWheelZoom.disable();
 </script>
