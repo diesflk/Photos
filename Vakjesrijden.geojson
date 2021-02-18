@@ -1,11 +1,8 @@
 {"coordinates": [[[[3.78, 9.28], [-130.91, 1.52], [35.12, 72.234], [3.78, 9.28]]], [[[23.18, -34.29], [-1.31, -4.61], [3.41, 77.91], [23.18, -34.29]]]], "type": "MultiPolygon",
 
 "properties": {
-    "tooltip": "",          // can be applied to any geometry type. Renders a popup message when you hover a mouse pointer over a feature. If the "tooltip" property is not set, the popup is displayed with the list of all other configured "properties" for the feature.
     "style": {
-        "color": "",        // can be applied to any geometry type
-        "fill": "",         // can be applied to "Point/MultiPoint" with the "radius" property and "Polygon/MultiPolygon"
-        "opacity": 0.5,     // can be applied to "Point/MultiPoint" with the "radius" property  in meters, "LineString/MultiLineString" and "Polygon/MultiPolygon" (only the filled part is affected, not the outline)
-        "hoverColor": "",   // the color of the feature on mouse hover; can be applied to any feature
-        "hoverOpacity": 0.2 // the opacity of the feature on mouse hover; can be applied to any feature except for markers and "Point/MultiPoint" with the "radius" property in pixels
-    }}
+        "color": "#ff7800",
+        "fill": "#ff7800",
+        "opacity": 0.5
+   }}}
