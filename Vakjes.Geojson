@@ -7,12 +7,8 @@
      ]]
    },
   "style":{
-      //all SVG styles allowed
       "fill":"red",
       "stroke-width":"3",
       "fill-opacity":0.6
-  },
-  "className":{
-       "baseVal":"01-01-2001"
   }
  }
