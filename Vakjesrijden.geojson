@@ -1,0 +1,28 @@
+ordinates of the Mapbox D.C. and San Francisco offices to our inline GeoJSON. The GeoJSON format organizes features, especially when working with larger data files.
+
+<div id='map_geo' class='map'> </div>
+<script>
+var geojson = [
+  {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [-77.031952, 38.913184]
+    }
+  },
+  {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [-122.413682, 37.775408]
+    }
+  }
+];
+
+var mapGeo = L.mapbox.map('map_geo')
+  .setView([37.8, -96], 4)
+  .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/light-v10'));
+
+var myLayer = L.mapbox.featureLayer().setGeoJSON(geojson).addTo(mapGeo);
+mapGeo.scrollWheelZoom.disable();
+</script>
