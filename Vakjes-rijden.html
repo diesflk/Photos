@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Foto's</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+body {
+  margin: 0;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.whitespace {
+    height: 5px;
+}
+
+h1 {
+    font-family: 'Open Sans', Oxygen;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 33px;
+    color: #0f0f0f;
+    padding: 0px 10px 3px 10px;
+    margin: 0;
+}
+
+h2{
+    font-family: 'Open Sans', Oxygen;
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 15px;
+    color: #008B8B;
+    padding: 0px 10px 0px 10px;
+    margin: 0;
+}
+
+h3{
+    font-family: 'Open Sans', Oxygen;
+    font-size: 15px;
+    font-weight: 1000;
+    line-height: 18px;
+    color: #0f0f0f;
+    padding: 0px 10px 0px 10px;
+    margin: 0;
+}
+
+h4{
+    font-family: 'Open Sans', Oxygen;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    color: #0f0f0f;
+    padding: 0px 10px 0px 10px;
+    margin: 0;
+}
+
+h5{
+    font-family: 'Open Sans', Oxygen;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 17px;
+    color: #0f0f0f;
+    padding: 0px 10px 0px 10px;
+    margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 1rem auto;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0f0f0f;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  display: block;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Open Sans', Oxygen;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+li a:hover {
+  background-color: #2F4F4F;
+}
+
+.active {
+  background-color: #008B8B;
+}
+
+.vertical-menu {
+  width: 100%;
+}
+
+.vertical-menu a {
+  background-color: #2F4F4F;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+  overflow: hidden;
+  color: white;
+  display: block;
+  text-decoration: none;
+  font-family: 'Open Sans', Oxygen;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.vertical-menu a:hover {
+  background-color: #0f0f0f;
+}
+
+.vertical-menu a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+iframe { border: 0; }
+
+
+/* MOBILE */
+@media screen and (max-width: 700px) {
+  iframe {
+      width: 100%;
+      height: auto;
+  }
+}
+/* DESKTOP */
+@media screen and (min-width: 700px) {
+    iframe {
+    height: 400px;
+    width: 800px;
+    margin: 1rem auto;
+    display: block;
+  }
+  h1, h2, h3, h4, h5, p, {
+    width: 100%;
+    margin: 1rem auto;
+  }
+}
+</style>
+</head>
+<body bgcolor="#f2f2f2">
+  <ul style="max-width: 800px" class="responsive">
+  <li><a class="active" href="https://raw.githack.com/diesflk/Photos/master/2018000.html">2018</a></li>
+  <li><a href="https://raw.githack.com/diesflk/Photos/master/2017000.html">Vorige</a></li>
+  <li><a href="https://raw.githack.com/diesflk/Photos/master/2019000.html">Volgende</a></li>
+</ul>
+
+    <div style="background-color: white; margin: 1rem auto; display: block; max-width: 800px; height: 100%" class="responsive">
+      <p class="whitespace"></p>
+      <p class="whitespace"></p>
+      <h3>Deze pagina bestaat uit een overzicht van de publicaties uit 2018</h3>
+      <iframe src="https://render.githubusercontent.com/view/geojson?color_mode=light&commit=95e97007d62e85f9017c05979584464196fe1a04&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f64696573666c6b2f50686f746f732f393565393730303764363265383566393031376330353937393538343436343139366665316130342f56616b6a657372696a64656e2e67656f6a736f6e&nwo=diesflk%2FPhotos&path=Vakjesrijden.geojson&repository_id=189223305&repository_type=Repository#d0c50cae-6385-4b27-9025-1dd1a71c6c5a" style="background-color: white; margin: 0; display: block; max-width: 800px; height: 100%" class="responsive"></iframe>
+     </div>
+</body>
+</html>
